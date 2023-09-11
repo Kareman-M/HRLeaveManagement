@@ -1,0 +1,15 @@
+E:\KM\RoadMap\CleanArchticutre\EnglishCourse\CleanArchticture\HRLeaveManagement.Application\bin\Debug\net7.0\HRLeaveManagement.Application.deps.json
+E:\KM\RoadMap\CleanArchticutre\EnglishCourse\CleanArchticture\HRLeaveManagement.Application\bin\Debug\net7.0\HRLeaveManagement.Application.dll
+E:\KM\RoadMap\CleanArchticutre\EnglishCourse\CleanArchticture\HRLeaveManagement.Application\bin\Debug\net7.0\HRLeaveManagement.Application.pdb
+E:\KM\RoadMap\CleanArchticutre\EnglishCourse\CleanArchticture\HRLeaveManagement.Application\bin\Debug\net7.0\HRLeaveManagement.Domain.dll
+E:\KM\RoadMap\CleanArchticutre\EnglishCourse\CleanArchticture\HRLeaveManagement.Application\bin\Debug\net7.0\HRLeaveManagement.Domain.pdb
+E:\KM\RoadMap\CleanArchticutre\EnglishCourse\CleanArchticture\HRLeaveManagement.Application\obj\Debug\net7.0\HRLeaveManagement.Application.csproj.AssemblyReference.cache
+E:\KM\RoadMap\CleanArchticutre\EnglishCourse\CleanArchticture\HRLeaveManagement.Application\obj\Debug\net7.0\HRLeaveManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\KM\RoadMap\CleanArchticutre\EnglishCourse\CleanArchticture\HRLeaveManagement.Application\obj\Debug\net7.0\HRLeaveManagement.Application.AssemblyInfoInputs.cache
+E:\KM\RoadMap\CleanArchticutre\EnglishCourse\CleanArchticture\HRLeaveManagement.Application\obj\Debug\net7.0\HRLeaveManagement.Application.AssemblyInfo.cs
+E:\KM\RoadMap\CleanArchticutre\EnglishCourse\CleanArchticture\HRLeaveManagement.Application\obj\Debug\net7.0\HRLeaveManagement.Application.csproj.CoreCompileInputs.cache
+E:\KM\RoadMap\CleanArchticutre\EnglishCourse\CleanArchticture\HRLeaveManagement.Application\obj\Debug\net7.0\HRLeaveManagement.Application.csproj.CopyComplete
+E:\KM\RoadMap\CleanArchticutre\EnglishCourse\CleanArchticture\HRLeaveManagement.Application\obj\Debug\net7.0\HRLeaveManagement.Application.dll
+E:\KM\RoadMap\CleanArchticutre\EnglishCourse\CleanArchticture\HRLeaveManagement.Application\obj\Debug\net7.0\refint\HRLeaveManagement.Application.dll
+E:\KM\RoadMap\CleanArchticutre\EnglishCourse\CleanArchticture\HRLeaveManagement.Application\obj\Debug\net7.0\HRLeaveManagement.Application.pdb
+E:\KM\RoadMap\CleanArchticutre\EnglishCourse\CleanArchticture\HRLeaveManagement.Application\obj\Debug\net7.0\ref\HRLeaveManagement.Application.dll

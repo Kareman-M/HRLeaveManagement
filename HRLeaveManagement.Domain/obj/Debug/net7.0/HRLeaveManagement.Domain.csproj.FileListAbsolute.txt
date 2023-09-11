@@ -1,0 +1,12 @@
+E:\KM\RoadMap\CleanArchticutre\EnglishCourse\CleanArchticture\HRLeaveManagement.Domain\bin\Debug\net7.0\HRLeaveManagement.Domain.deps.json
+E:\KM\RoadMap\CleanArchticutre\EnglishCourse\CleanArchticture\HRLeaveManagement.Domain\bin\Debug\net7.0\HRLeaveManagement.Domain.dll
+E:\KM\RoadMap\CleanArchticutre\EnglishCourse\CleanArchticture\HRLeaveManagement.Domain\bin\Debug\net7.0\HRLeaveManagement.Domain.pdb
+E:\KM\RoadMap\CleanArchticutre\EnglishCourse\CleanArchticture\HRLeaveManagement.Domain\obj\Debug\net7.0\HRLeaveManagement.Domain.csproj.AssemblyReference.cache
+E:\KM\RoadMap\CleanArchticutre\EnglishCourse\CleanArchticture\HRLeaveManagement.Domain\obj\Debug\net7.0\HRLeaveManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\KM\RoadMap\CleanArchticutre\EnglishCourse\CleanArchticture\HRLeaveManagement.Domain\obj\Debug\net7.0\HRLeaveManagement.Domain.AssemblyInfoInputs.cache
+E:\KM\RoadMap\CleanArchticutre\EnglishCourse\CleanArchticture\HRLeaveManagement.Domain\obj\Debug\net7.0\HRLeaveManagement.Domain.AssemblyInfo.cs
+E:\KM\RoadMap\CleanArchticutre\EnglishCourse\CleanArchticture\HRLeaveManagement.Domain\obj\Debug\net7.0\HRLeaveManagement.Domain.csproj.CoreCompileInputs.cache
+E:\KM\RoadMap\CleanArchticutre\EnglishCourse\CleanArchticture\HRLeaveManagement.Domain\obj\Debug\net7.0\HRLeaveManagement.Domain.dll
+E:\KM\RoadMap\CleanArchticutre\EnglishCourse\CleanArchticture\HRLeaveManagement.Domain\obj\Debug\net7.0\refint\HRLeaveManagement.Domain.dll
+E:\KM\RoadMap\CleanArchticutre\EnglishCourse\CleanArchticture\HRLeaveManagement.Domain\obj\Debug\net7.0\HRLeaveManagement.Domain.pdb
+E:\KM\RoadMap\CleanArchticutre\EnglishCourse\CleanArchticture\HRLeaveManagement.Domain\obj\Debug\net7.0\ref\HRLeaveManagement.Domain.dll
