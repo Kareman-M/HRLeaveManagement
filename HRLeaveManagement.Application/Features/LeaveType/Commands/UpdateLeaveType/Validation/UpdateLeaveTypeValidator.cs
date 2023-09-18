@@ -1,12 +1,12 @@
 ﻿using FluentValidation;
 using HRLeaveManagement.Application.Contracts.Persistence;
 
-namespace HRLeaveManagement.Application.Features.LeaveType.Commands.UpdateLeaveType
+namespace HRLeaveManagement.Application.Features.LeaveType.Commands.UpdateLeaveType.Validation
 {
-    public class UpdateLeaveTypeCommandValidator : AbstractValidator<UpdateLeaveTypeCommand>
+    public class UpdateLeaveTypeValidator : AbstractValidator<UpdateLeaveTypeCommand>
     {
         private readonly ILeaveTypeRepository _leaveTypeRepository;
-        public UpdateLeaveTypeCommandValidator(ILeaveTypeRepository leaveTypeRepository)
+        public UpdateLeaveTypeValidator(ILeaveTypeRepository leaveTypeRepository)
         {
             _leaveTypeRepository = leaveTypeRepository;
             AddRules();

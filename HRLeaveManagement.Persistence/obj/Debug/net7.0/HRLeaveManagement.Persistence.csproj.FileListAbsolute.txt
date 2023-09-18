@@ -1,0 +1,17 @@
+E:\KM\RoadMap\CleanArchticutre\EnglishCourse\CleanArchticture\HRLeaveManagement.Persistence\bin\Debug\net7.0\HRLeaveManagement.Persistence.deps.json
+E:\KM\RoadMap\CleanArchticutre\EnglishCourse\CleanArchticture\HRLeaveManagement.Persistence\bin\Debug\net7.0\HRLeaveManagement.Persistence.dll
+E:\KM\RoadMap\CleanArchticutre\EnglishCourse\CleanArchticture\HRLeaveManagement.Persistence\bin\Debug\net7.0\HRLeaveManagement.Persistence.pdb
+E:\KM\RoadMap\CleanArchticutre\EnglishCourse\CleanArchticture\HRLeaveManagement.Persistence\bin\Debug\net7.0\HRLeaveManagement.Application.dll
+E:\KM\RoadMap\CleanArchticutre\EnglishCourse\CleanArchticture\HRLeaveManagement.Persistence\bin\Debug\net7.0\HRLeaveManagement.Domain.dll
+E:\KM\RoadMap\CleanArchticutre\EnglishCourse\CleanArchticture\HRLeaveManagement.Persistence\bin\Debug\net7.0\HRLeaveManagement.Application.pdb
+E:\KM\RoadMap\CleanArchticutre\EnglishCourse\CleanArchticture\HRLeaveManagement.Persistence\bin\Debug\net7.0\HRLeaveManagement.Domain.pdb
+E:\KM\RoadMap\CleanArchticutre\EnglishCourse\CleanArchticture\HRLeaveManagement.Persistence\obj\Debug\net7.0\HRLeaveManagement.Persistence.csproj.AssemblyReference.cache
+E:\KM\RoadMap\CleanArchticutre\EnglishCourse\CleanArchticture\HRLeaveManagement.Persistence\obj\Debug\net7.0\HRLeaveManagement.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+E:\KM\RoadMap\CleanArchticutre\EnglishCourse\CleanArchticture\HRLeaveManagement.Persistence\obj\Debug\net7.0\HRLeaveManagement.Persistence.AssemblyInfoInputs.cache
+E:\KM\RoadMap\CleanArchticutre\EnglishCourse\CleanArchticture\HRLeaveManagement.Persistence\obj\Debug\net7.0\HRLeaveManagement.Persistence.AssemblyInfo.cs
+E:\KM\RoadMap\CleanArchticutre\EnglishCourse\CleanArchticture\HRLeaveManagement.Persistence\obj\Debug\net7.0\HRLeaveManagement.Persistence.csproj.CoreCompileInputs.cache
+E:\KM\RoadMap\CleanArchticutre\EnglishCourse\CleanArchticture\HRLeaveManagement.Persistence\obj\Debug\net7.0\HRLeaveManagement.Persistence.csproj.CopyComplete
+E:\KM\RoadMap\CleanArchticutre\EnglishCourse\CleanArchticture\HRLeaveManagement.Persistence\obj\Debug\net7.0\HRLeaveManagement.Persistence.dll
+E:\KM\RoadMap\CleanArchticutre\EnglishCourse\CleanArchticture\HRLeaveManagement.Persistence\obj\Debug\net7.0\refint\HRLeaveManagement.Persistence.dll
+E:\KM\RoadMap\CleanArchticutre\EnglishCourse\CleanArchticture\HRLeaveManagement.Persistence\obj\Debug\net7.0\HRLeaveManagement.Persistence.pdb
+E:\KM\RoadMap\CleanArchticutre\EnglishCourse\CleanArchticture\HRLeaveManagement.Persistence\obj\Debug\net7.0\ref\HRLeaveManagement.Persistence.dll

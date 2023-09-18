@@ -1,12 +1,12 @@
 ﻿using FluentValidation;
 using HRLeaveManagement.Application.Contracts.Persistence;
 
-namespace HRLeaveManagement.Application.Features.LeaveType.Commands.CreateLeaveType
+namespace HRLeaveManagement.Application.Features.LeaveType.Commands.CreateLeaveType.Validation
 {
-    public class CreateLeaveTypeCommandValidator : AbstractValidator<CreateLeaveTypeCommand>
+    public class CreateLeaveTypeValidator : AbstractValidator<CreateLeaveTypeCommand>
     {
         private readonly ILeaveTypeRepository _leaveTypeRepository;
-        public CreateLeaveTypeCommandValidator(ILeaveTypeRepository leaveTypeRepository)
+        public CreateLeaveTypeValidator(ILeaveTypeRepository leaveTypeRepository)
         {
             _leaveTypeRepository = leaveTypeRepository;
             AddRules();

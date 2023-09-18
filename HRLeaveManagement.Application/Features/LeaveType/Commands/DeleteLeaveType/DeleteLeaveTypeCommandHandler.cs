@@ -1,5 +1,6 @@
 ﻿using HRLeaveManagement.Application.Contracts.Persistence;
 using HRLeaveManagement.Application.Exceptions;
+using HRLeaveManagement.Application.Features.LeaveType.Commands.DeleteLeaveType.Validation;
 using MediatR;
 
 namespace HRLeaveManagement.Application.Features.LeaveType.Commands.DeleteLeaveType
@@ -7,7 +8,6 @@ namespace HRLeaveManagement.Application.Features.LeaveType.Commands.DeleteLeaveT
     public class DeleteLeaveTypeCommandHandler : IRequestHandler<DeleteLeaveTypeCommand, Unit>
     {
         private readonly ILeaveTypeRepository _leaveTypeRepository;
-
         public DeleteLeaveTypeCommandHandler(ILeaveTypeRepository leaveTypeRepository)
         {
             _leaveTypeRepository = leaveTypeRepository;
@@ -15,11 +15,12 @@ namespace HRLeaveManagement.Application.Features.LeaveType.Commands.DeleteLeaveT
 
         public async Task<Unit> Handle(DeleteLeaveTypeCommand request, CancellationToken cancellationToken)
         {
-            // retrieve domain entoty object
-            var leaveType = await _leaveTypeRepository.GetByIdAsync(request.Id);
+            // validate delete Leave type
+            var validationResult = await new DeleteLeaveTypeValidator(_leaveTypeRepository).ValidateAsync(request);
+            if (!validationResult.IsValid) throw new BadRequestException("Not Valid Delete LeaveType", validationResult);
 
-            // verfiy that record exists
-            if (leaveType == null) throw new NoFoundException(nameof(LeaveType), request.Id);
+            // retrieve domain entity object
+            var leaveType = await _leaveTypeRepository.GetByIdAsync(request.Id);
 
             // remove from database
             await _leaveTypeRepository.DeleteAsync(leaveType);
